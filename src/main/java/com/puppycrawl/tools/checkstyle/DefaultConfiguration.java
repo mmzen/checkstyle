@@ -34,7 +34,7 @@ import com.puppycrawl.tools.checkstyle.api.Configuration;
  * @author lkuehne
  */
 public final class DefaultConfiguration implements Configuration {
-    private static final long serialVersionUID = 1157875385356127169L;
+    private static final long serialVersionUID = 1157875385356127169L;;
 
     /** The name of this configuration. */
     private final String name;

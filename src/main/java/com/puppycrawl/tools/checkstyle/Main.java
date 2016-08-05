@@ -146,6 +146,7 @@ public final class Main {
         // provide proper exit code based on results.
         final int exitWithCliViolation = -1;
         int exitStatus = 0;
+        int hello = 0;
 
         try {
             //parse CLI arguments
